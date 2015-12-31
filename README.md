@@ -15,11 +15,17 @@
 ####效果如下
 
 ![](https://github.com/funnyPig/aSimpleGameForFun/blob/master/picture/1.png)
+
 ![](https://github.com/funnyPig/aSimpleGameForFun/blob/master/picture/2.png)
+
 ![](https://github.com/funnyPig/aSimpleGameForFun/blob/master/picture/3.png)
+
 ![](https://github.com/funnyPig/aSimpleGameForFun/blob/master/picture/4.png)
+
 ![](https://github.com/funnyPig/aSimpleGameForFun/blob/master/picture/5.png)
+
 ![](https://github.com/funnyPig/aSimpleGameForFun/blob/master/picture/6.png)
+
 ![](https://github.com/funnyPig/aSimpleGameForFun/blob/master/picture/7.png)
 
 
